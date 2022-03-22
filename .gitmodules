@@ -22,3 +22,6 @@
 [submodule "dep/local/dd_deps/AdaBins"]
 	path = dep/local/dd_deps/AdaBins
 	url = https://github.com/shariqfarooq123/AdaBins.git
+[submodule "disco-diffusion"]
+	path = disco-diffusion
+	url = https://github.com/alembics/disco-diffusion.git
