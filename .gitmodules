@@ -1,0 +1,24 @@
+[submodule "dep/CLIP"]
+	path = dep/CLIP
+	url = https://github.com/openai/CLIP
+[submodule "dep/local/dd_deps/SLIP"]
+	path = dep/local/dd_deps/SLIP
+	url = https://github.com/facebookresearch/SLIP.git
+[submodule "dep/guided-diffusion"]
+	path = dep/guided-diffusion
+	url = https://github.com/crowsonkb/guided-diffusion
+[submodule "dep/local/dd_deps/ResizeRight"]
+	path = dep/local/dd_deps/ResizeRight
+	url = https://github.com/assafshocher/ResizeRight.git
+[submodule "dep/local/dd_deps/MiDaS"]
+	path = dep/local/dd_deps/MiDaS
+	url = https://github.com/isl-org/MiDaS.git
+[submodule "dep/local/dd_deps/latent_diffusion"]
+	path = dep/local/dd_deps/latent_diffusion
+	url = https://github.com/CompVis/latent-diffusion.git
+[submodule "dep/taming-transformers"]
+	path = dep/taming-transformers
+	url = https://github.com/CompVis/taming-transformers
+[submodule "dep/local/dd_deps/AdaBins"]
+	path = dep/local/dd_deps/AdaBins
+	url = https://github.com/shariqfarooq123/AdaBins.git
